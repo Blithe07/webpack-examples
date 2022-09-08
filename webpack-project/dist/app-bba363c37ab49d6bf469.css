@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  background-image: url(e27e52cd16abf9601a11.jpg);
+  text-align: center;
+}
+::-moz-placeholder {
+  color: gray;
+}
+::placeholder {
+  color: gray;
+}
+

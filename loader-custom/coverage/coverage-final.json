@@ -1,0 +1,3 @@
+{"D:\\demo\\loader-custom\\src\\foo.js": {"path":"D:\\demo\\loader-custom\\src\\foo.js","statementMap":{},"fnMap":{},"branchMap":{},"s":{},"f":{},"b":{}}
+,"D:\\demo\\loader-custom\\src\\index.js": {"path":"D:\\demo\\loader-custom\\src\\index.js","statementMap":{"0":{"start":{"line":5,"column":0},"end":{"line":5,"column":27}}},"fnMap":{},"branchMap":{},"s":{"0":0},"f":{},"b":{}}
+}

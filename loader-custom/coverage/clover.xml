@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1662472382551" clover="3.2.0">
+  <project timestamp="1662472382551" name="All files">
+    <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="1" coveredelements="0" complexity="0" loc="1" ncloc="1" packages="1" files="2" classes="2"/>
+    <file name="foo.js" path="D:\demo\loader-custom\src\foo.js">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+    <file name="index.js" path="D:\demo\loader-custom\src\index.js">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="5" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>

@@ -1,0 +1,28 @@
+{
+  "name": "loader-custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack serve --config=webpack.development.js",
+    "build": "webpack --config=webpack.config.js --progress",
+    "test:only": "cross-env NODE_ENV=test jest",
+    "test:watch": "npm run test:only -- --watch",
+    "test:coverage": "npm run test:only -- --collectCoverageFrom=\"src/**/*.js\" --coverage",
+    "test": "npm run test:coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "babel-jest": "^28.1.1",
+    "cross-env": "^7.0.3",
+    "jest": "^28.1.1",
+    "memfs": "^3.4.6",
+    "pify": "^6.0.0",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
